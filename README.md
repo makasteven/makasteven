@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @makasteven
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning through Alchemy Code Lab
-- 💞️ I’m looking to collaborate on everything that to come my way
+- 💞️ I’m looking to collaborate on everything thats to come my way
 - 📫 How to reach me is through email "makasteven@gmail.com"
 
 <!---
